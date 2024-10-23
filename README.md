@@ -1,0 +1,1 @@
+# ASQAS-Alarm-Scan-QR-And-Shake
